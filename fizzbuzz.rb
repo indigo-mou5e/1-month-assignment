@@ -10,6 +10,6 @@
 			puts "buzz" 
 		else
 			puts i
+		end
 	end
-end
 end
